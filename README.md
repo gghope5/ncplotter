@@ -1,10 +1,10 @@
 # ncplotter
 Python: custom plotter for netCDF data
 Uses libraries:
-*numpy
-*matplotlib
-*cartopy
-*netCDF4
+* numpy
+* matplotlib
+* cartopy
+* netCDF4
 # example usage of function
 ncplotter(ccrs.PlateCarree(),'/Users/gghope/PycharmProjects/KonradLearningPython/rel_humid.nc','r',6,6,'RH %','Average Relative Humidity in Summer 2020', False)
 
